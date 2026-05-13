@@ -113,18 +113,3 @@ A hospital management system for **The Ivor Paine Memorial Hospital**, built as 
 | Q12 | Staff positions and count of staff in each position |
 
 ---
-
-## Team
-
-| Student ID |
-|------------|
-| i240525    |
-| i240653    |
-| i240720    |
-| i240806    |
-
----
-
-## License
-
-This project was developed as an academic submission for a Database Lab course. Not intended for production use.
