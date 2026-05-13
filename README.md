@@ -1,6 +1,6 @@
 # MediTrack
 
-A hospital management system for **The Ivor Paine Memorial Hospital**, built as a Database Lab project (Milestone 3). It provides a PHP web front end connected to a Microsoft SQL Server database, covering patient records, ward management, consultant teams, and 12 required analytical queries.
+A hospital management system for **The Ivor Paine Memorial Hospital**, built as a Database project. It provides a PHP web front end connected to a Microsoft SQL Server database, covering patient records, ward management, consultant teams, and 12 required analytical queries.
 
 ---
 
