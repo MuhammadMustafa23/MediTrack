@@ -27,6 +27,10 @@ A hospital management system for **The Ivor Paine Memorial Hospital**, built as 
 
 ## Database Schema
 
+![EERD](DB-Meditrack/eerd.png)
+
+![SCHEMA](DB-Meditrack/schema.png)
+
 25 tables covering the full hospital domain:
 
 - **Staff** — `Nurse`, `StaffNurse`, `DaySister`, `NightSister`, `NonRegisteredNurse`, `Position`, `NursePhone`, `NurseQualifications`, `DaySisterRound`
@@ -62,6 +66,7 @@ A hospital management system for **The Ivor Paine Memorial Hospital**, built as 
 
 ---
 
+![Main Window](DB-Meditrack/main.png)
 ## Setup & Installation
 
 ### Prerequisites
@@ -94,6 +99,9 @@ A hospital management system for **The Ivor Paine Memorial Hospital**, built as 
        http://localhost/hospital/
 
 ---
+![Form View](DB-Meditrack/form.png)
+
+![Query List](DB-Meditrack/qlist.png)
 
 ## SQL Queries Included
 
